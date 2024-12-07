@@ -1,0 +1,3 @@
+aiogram==3.x
+psycopg2-binary==2.x  # Agar PostgreSQL ishlatilayotgan bo'lsa
+aiohttp==3.x
